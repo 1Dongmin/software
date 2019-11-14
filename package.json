@@ -3,6 +3,11 @@
   "version": "0.0.1",
   "main" : "server.js",
   "description": "A sample Node.js app using Express 4",
+  "scripts": {
+    "start": "node server.js",
+  }
   "engines": {
     "node": "12.x"
   },
+  "license": "MIT"
+}
