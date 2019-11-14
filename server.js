@@ -21,8 +21,8 @@ app.get('./', (req, res) => {
 app.get('./html/about.html', (req, res) => {
   res.sendFile(path.join(__dirname, 'html', 'about.html'));
 });
-app.listen(8080, () => {
-  console.log('Express App on port 8080!');
+app.listen(5000, () => {
+  console.log('Express App on port 5000!');
 });
 app.use((req, res, next) => {
   console.log('안녕!');
