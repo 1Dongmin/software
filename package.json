@@ -1,6 +1,7 @@
 {
   "name": "h-s-server",
   "version": "0.0.1",
+  "main" : "server.js",
   "description": "A sample Node.js app using Express 4",
   "engines": {
     "node": "12.x"
