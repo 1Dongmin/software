@@ -15,10 +15,10 @@ function onSignIn(googleUser) {
 }
 
 app.use(express.static(path.join(__dirname, 'html')));
-app.get('/', (req, res) => {
+app.get('./', (req, res) => {
   res.sendFile(path.join(__dirname, 'html', 'main.html'));
 });
-app.get('/about', (req, res) => {
+app.get('./html/about.html', (req, res) => {
   res.sendFile(path.join(__dirname, 'html', 'about.html'));
 });
 app.listen(8080, () => {
