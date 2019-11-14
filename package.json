@@ -1,36 +1,5 @@
 {
-  "name": "game server",
-  "version": "0.3.0",
-  "engines": {
-    "node": "12.x"
-  },
-  "main": "server.js",
-  "dependencies": {
-    "ejs": "^2.5.6",
-    "express": "^4.15.2"
-  },
-  "devDependencies": {
-    "request": "^2.81.0",
-    "tape": "^4.7.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
-  },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
-  "license": "MIT"
-  "installed":{"client_id":"953016826370-29he30rto5inab91u9afv0a5fsn3coeg.apps.googleusercontent.com",
-  "project_id":"hoseo-software",
-  "auth_uri":"https://accounts.google.com/o/oauth2/auth",
-  "token_uri":"https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
-  "client_secret":"SBWTgAElPdaMCOKDv0OmJxfN",
-  "redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}
-"requires": true,
+  "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
     "accepts": {
@@ -542,3 +511,4 @@
     }
   }
 }
+{"installed":{"client_id":"953016826370-29he30rto5inab91u9afv0a5fsn3coeg.apps.googleusercontent.com","project_id":"hoseo-software","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"SBWTgAElPdaMCOKDv0OmJxfN","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
