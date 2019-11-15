@@ -33,6 +33,6 @@
     "token_uri":"https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
     "client_secret":"Kac8Z-oTT4o4X8Cot1iXrXT2",
-    "javascript_origins":["http://localhost:5000"]}
+    "javascript_origins":["http://localhost:5000","https://h-s-server.herokuapp.com"]}
 }
 
