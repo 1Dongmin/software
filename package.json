@@ -26,9 +26,8 @@
     "request": "^2.88.0",
     "responsivevoice": "^0.4.1",
     "socket.io": "^2.1.1"
-  }
-}
-{"web":{"client_id":"953016826370-spau31qjo3v9f1ckhbk5d8os9hrne48e.apps.googleusercontent.com",
+  },
+  "web":{"client_id":"953016826370-spau31qjo3v9f1ckhbk5d8os9hrne48e.apps.googleusercontent.com",
     "project_id":"hoseo-software",
     "auth_uri":"https://accounts.google.com/o/oauth2/auth",
     "token_uri":"https://oauth2.googleapis.com/token",
@@ -36,3 +35,4 @@
     "client_secret":"Kac8Z-oTT4o4X8Cot1iXrXT2",
     "javascript_origins":["http://localhost:5000"]}
 }
+
